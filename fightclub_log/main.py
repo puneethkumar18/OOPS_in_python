@@ -1,0 +1,1 @@
+sheet_endpoint = "https://api.sheety.co/a8fa40741c590e518b0f8d43b99377d7/ownCopy/fightClub"
